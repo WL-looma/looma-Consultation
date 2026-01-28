@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://forms.fillout.com/t/9UuvCSVrUrus"
+    }
+  ]
+}
