@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/:path*",
-      "destination": "https://forms.fillout.com/t/9UuvCSVrUrus"
+      "source": "/(.*)",
+      "destination": "https://forms.fillout.com/t/9UuvCSVrUrus",
+      "permanent": true
     }
   ]
 }
